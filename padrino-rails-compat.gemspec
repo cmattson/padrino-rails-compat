@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name              = "padrino-rails-compat"
-  s.version           = "0.0.1"
+  s.version           = "0.0.2"
   s.platform          = Gem::Platform::RUBY
   s.authors           = ["Colin Mattson"]
   s.email             = ["colinmattson@gmail.com"]
